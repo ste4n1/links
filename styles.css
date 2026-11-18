@@ -130,8 +130,6 @@ body {
   .win { position: static; width: 100%; }
   .win.min .guts { grid-template-rows: 1fr; }
   .close, .ghost { display: none !important; }
-  .title { font-size: 0; }
-  .title::after { content: 'ste4n1'; font-size: .9rem; }
 }
 
 .bar {
